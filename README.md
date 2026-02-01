@@ -29,7 +29,7 @@ Welcome to the DarkOrange phpMyAdmin Theme! This theme is designed to enhance th
 1. Clone the repository or download the ZIP file:
 
    ```bash
-   git clone https://github.com/atikhasan392/DarkOrange.git
+   sudo git clone https://github.com/atikhasan392/DarkOrange.git
    ```
 
 2. Alternatively, download the ZIP file from the [Releases](https://github.com/atikhasan392/DarkOrange) section.
