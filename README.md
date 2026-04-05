@@ -21,7 +21,7 @@ Welcome to the DarkOrange phpMyAdmin Theme! This theme is designed to enhance th
 2. Open the `themes` folder. The typical path is:
 
    ```bash
-   cd /var/www/phpmyadmin/themes
+   cd /usr/share/phpmyadmin/themes
    ```
 
 ### Step 2: Download the Theme
